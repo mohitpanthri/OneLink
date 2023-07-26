@@ -2,7 +2,7 @@
   <h1>OneLink</h1>
 </div>
   
-OneLink is a one pages website where you can add all your social links at one place. You can add you projects links displaying it as a card and can also customise the appreance of the website with your own twist.
+OneLink is a one page website where you can add all your social links at one place. You can add you projects links displaying it as a card and can also customise the appreance of the website with your own twist.
 
 <br>
 
