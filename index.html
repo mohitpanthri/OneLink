@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>OneLink</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <!-- OneLink Navbavr -->
+    <div class=".container " id="main">
+      <nav class="navbar">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#">
+            <b>OneLink</b>
+          </a>
+        </div>
+      </nav>
+      <!-- Glass -->
+      <div class="glass">
+        <section class="socials">
+          <!-- Profile Picture and a little summary -->
+          <div class="profile">
+            <img src="assets/profile.jpg" alt="profile-picture" />
+            <h3>Mohit Panthri <i class="bi bi-patch-check"></i>
+            </h3>
+            <p class="summary">Enthusiastic and detail-oriented Computer Science graduate with a strong background in programming.</p>
+          </div>
+          <!-- Socials Links -->
+          <div class="d-flex justify-content-center">
+            <a class="icon-link" href="https://www.linkedin.com/in/mohit-panthri">
+              <i class="bi bi-linkedin"></i>
+            </a>
+            <a class="icon-link" href="#">
+              <i class="bi bi-person-circle"></i>
+            </a>
+            <a class="icon-link" href="https://github.com/mohitpanthri">
+              <i class="bi bi-github"></i>
+            </a>
+            <a class="icon-link" href="#">
+              <i class="bi bi-envelope"></i>
+            </a>
+            <a class="icon-link" href="https://twitter.com/imohitpanthri">
+              <i class="bi bi-twitter"></i>
+            </a>
+            <a class="icon-link" href="https://www.instagram.com/imohitpanthri">
+              <i class="bi bi-instagram"></i>
+            </a>
+        </section>
+        <!-- Tiles  -->
+        <section class="tiles d-flex flex-column align-items-center ">
+          <a class="tile  " href="#">
+            <p>Star &#11088; OneLink on Github</p>
+          </a>
+          <!-- Card -->
+          <div class="cards d-flex flex-column align-items-center">
+            <a href="#" class="card">
+              <img src="assets/Stegify.png" class="img-fluid" alt="...">
+              <p>Stegify Project</p>
+            </a>
+          </div>
+        </section>
+      </div>
+      <footer>
+        <p>Mohit Panthri 2023</p>
+      </footer>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js" integrity="sha384-fbbOQedDUMZZ5KreZpsbe1LCZPVmfTnH7ois6mU1QK+m14rQ1l2bGBq41eYeM/fS" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.net.min.js"></script>
+    <script>
+      VANTA.NET({
+        el: "#main",
+        mouseControls: true,
+        touchControls: true,
+        gyroControls: false,
+        minHeight: 200.00,
+        minWidth: 200.00,
+        scale: 1.00,
+        scaleMobile: 1.00,
+        backgroundColor: 0x0
+      })
+    </script>
+  </body>
+</html>
