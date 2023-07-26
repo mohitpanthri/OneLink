@@ -28,7 +28,12 @@ OneLink is a one pages website where you can add all your social links at one pl
 <hr>
 
 ### Screenshot 📸
+
+<video src="https://github.com/mohitpanthri/OneLink/assets/99413629/ae6535a2-d1c3-4568-8c37-9ffa156a7327" controls="controls" style="max-width: 730px;">
+</video>
+
 ![OneLinkpng](https://github.com/mohitpanthri/OneLink/assets/99413629/1146b9bd-a999-413b-87d3-10f09c48c584)
+
 
 <br>
 <hr>
