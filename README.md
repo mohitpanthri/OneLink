@@ -40,7 +40,6 @@ OneLink is a one page website where you can add all your social links at one pla
 
 © 2023 Mohit Panthri
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 ![license-mit](https://github.com/mohitpanthri/OneLink/assets/99413629/c718af47-08db-4943-85a9-8f686b4cbc3a)
 
 
