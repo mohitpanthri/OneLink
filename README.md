@@ -19,7 +19,6 @@ OneLink is a one page website where you can add all your social links at one pla
 <div align="left">
 <img height="50" width="50" src="https://github.com/mohitpanthri/OneLink/assets/99413629/0757de27-6c66-4671-aa16-fd8dc7df9be9">
 <img height="50" width="50" src="https://github.com/mohitpanthri/OneLink/assets/99413629/5787be13-4722-48b2-bf0f-2cad90079aaa">
-<img height="50" width="50" src="https://github.com/mohitpanthri/OneLink/assets/99413629/04de06ba-5f78-4c8a-893b-132d6d7d6703">
 <img height="50" width="50" src="https://github.com/mohitpanthri/OneLink/assets/99413629/81e747c6-582c-493b-89e4-e4b3e5b27d33">
   
 </div>
