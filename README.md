@@ -8,8 +8,8 @@ OneLink is a one page website where you can add all your social links at one pla
 
 <div align="center"> 
 
-## Watch the Live [Demo](https://onelink-mohitpanthri.netlify.app)  
-<sup>**Status:**</sup>  [![Netlify Status](https://api.netlify.com/api/v1/badges/4cf377da-8a41-48f1-9010-6f6e1614ec10/deploy-status)](https://app.netlify.com/sites/onelink-mohitpanthri/deploys)
+## Watch the Live [Demo](https://mohitpanthri-onelink.netlify.app)  
+<sup>**Status:**</sup>  [![Netlify Status](https://api.netlify.com/api/v1/badges/7395b38c-8389-4457-841e-c2dc2c6fd1c0/deploy-status)](https://app.netlify.com/sites/mohitpanthri-onelink/deploys)
 </div> 
 
 <br>
